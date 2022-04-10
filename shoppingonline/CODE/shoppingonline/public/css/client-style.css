@@ -1,0 +1,174 @@
+*{
+	padding: 0;
+	margin:  0;
+	box-sizing: border-box;
+}
+
+.navbar-brand{
+	font-size: 3rem;
+	color: black;
+	font-family: 'Corinthia', cursive;
+}
+
+.navbar-brand:hover{
+	color: black;
+}
+
+.nav-link{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	font-family: 'Pacifico', cursive;
+	text-transform: uppercase;
+}
+
+.nav-link:hover{
+	color: black;
+}
+
+.search{
+	height: 40px;
+	width: 80%;
+	border-radius: 60px;
+	outline: none;
+	margin-right: -35px;
+	font-family: 'Pacifico', cursive;
+	border: 2px solid rgb(166, 127, 100);
+}
+
+.btn0{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border: none;
+	background: rgb(166, 127, 100);
+	color: white;
+	border-radius: 60px;
+	font-weight: 700;
+	font-family: 'Pacifico', cursive;
+}
+
+.btn1{
+	height: 40px;
+	width: 50%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.btn2{
+	height: 40px;
+	width: 25%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.stock{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.item{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.phonenum{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.branchname{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.price{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.clientname{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.email{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+
+.address{
+	height: 40px;
+	width: 40%;
+	outline: none;
+	border-radius: 60px;
+	font-weight: 700;
+	margin-right: -5px;
+}
+
+.main{
+	background: url(E:/web/Image/product.jpg)no-repeat;
+	background-size: cover;
+	height: 100vh;
+	background-position: 45% 50%;
+	width: 100%;
+}
+
+.main h1{
+	font-size: 4rem;
+	font-weight: 700;
+	font-family: 'Pacifico', cursive;
+	color: coral;
+}
+
+.main1 h2{
+	font-size: 2rem;
+	font-weight: 700;
+	font-family: 'Pacifico', cursive;
+}
+
+.dropdown{
+	position: relative;
+}
+
+.dropdown-menu{
+	position: absolute;
+}
+
+.main3 {
+	font-size: 2rem;
+	font-weight: 700;
+}
